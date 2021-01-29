@@ -3,6 +3,7 @@ body {
   background-color: #ffffff;
 }
 
+
 .file-upload {
     padding: 15% 3%;
     margin: 0 auto;
@@ -139,14 +140,12 @@ body {
 }
 
 .title{
-    font-family: NanumSquareR;
     line-height: 1.67;
     text-align: center;
     color: #35465d;
 }
 
 .subtitle{
-    font-family: NanumSquareR;
     line-height: 1.53;
     text-align: center;
     color: #35465d;
